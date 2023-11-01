@@ -1,2 +1,1 @@
 pyzipper
-py7zr
