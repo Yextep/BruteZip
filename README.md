@@ -31,3 +31,18 @@ Ejecutamos el Script
 ```bash
 python3 brute-zip.py
 ```
+
+# Brute Zip V2
+
+Ejemplos:
+
+```bash
+  python brute-zip-v2.py archivo.zip diccionario.txt -w 4 --length 8
+```
+```bash
+  python brute-zip-v2.py archivo.zip diccionario.txt --rules case,leet --suffix 2026
+```
+```bash
+  python brute-zip-v2.py archivo.zip diccionario.txt --extract-to salida/
+```
+  
